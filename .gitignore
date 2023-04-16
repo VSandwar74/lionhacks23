@@ -1,0 +1,3 @@
+venv/
+app/tweets.csv
+app/__pycache__

@@ -11,3 +11,5 @@ This component shows the most extensive posters on the platform
 Cred for inspo and models: https://github.com/AUT-Twitter-Analytics/Streamlit-Dashboard
 
 Made by Vishakh, Shreyaas and Soham for LionHacks '23
+
+https://near.social/#/vishakhs.near/widget/social-analytics

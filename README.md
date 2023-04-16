@@ -8,4 +8,6 @@ a tooltip feature that displays the value when you hover over a segment of the p
 Top Posters Table
 This component shows the most extensive posters on the platform
 
+Cred for inspo and models: https://github.com/AUT-Twitter-Analytics/Streamlit-Dashboard
+
 Made by Vishakh, Shreyaas and Soham for LionHacks '23
